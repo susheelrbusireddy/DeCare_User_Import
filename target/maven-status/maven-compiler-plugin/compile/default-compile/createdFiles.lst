@@ -1,0 +1,3 @@
+com\okta\bulkload\BulkLoader.class
+com\okta\bulkload\Producer.class
+com\okta\bulkload\Consumer.class
