@@ -1,0 +1,3 @@
+cd C:\Users\sushe\Desktop\BulkLoadUsers(IntelliJ)
+mvn package
+java -jar target\okta-bulkload.jar "C:\Users\sushe\Desktop\BulkLoadUsers(IntelliJ)\src\main\resources\config.properties" "C:\Users\sushe\Desktop\BulkLoadUsers(IntelliJ)\Users\users.csv"

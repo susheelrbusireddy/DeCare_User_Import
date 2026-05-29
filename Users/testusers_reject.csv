@@ -1,0 +1,5 @@
+"firstName","lastName","email","login","value","errorCode","errorCause"
+"testuser42","testuser42","testuser.399@mailinator.com","testuser.399@mailinator.com","{SSHA}ALr+xvReNxlnO/aBb9G5Ac3Kh7j3fbUHg2ixZw==","E0000001","login: An object with this field already exists in the current organization"
+"testuser42","testuser42","testuser.400@mailinator.com","testuser.400@mailinator.com","{SSHA}g/PGJoBH4aB/ZcD3hF4tzt12Q0I6R44iMXwnUg==","E0000001","login: An object with this field already exists in the current organization"
+"testuser42","testuser42","testuser.401@mailinator.com","testuser.401@mailinator.com","{SSHA}DDhALLv/aEBlWRNbvIC5s2c2u7QeVGkoMUWOKQ==","E0000001","login: An object with this field already exists in the current organization"
+"testuser42","testuser42","testuser.402@mailinator.com","testuser.402@mailinator.com","{SSHA}92aucCEZPXIK1Ro/dh/PANwYq5TYdMY7Rj/wCA==","E0000001","login: An object with this field already exists in the current organization"
